@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/hackintosh":[a],"/index":[a]}}("static\u002Fchunks\u002F4b8624ac948335b84516a7722a8e6a11c5716a56.cb212b3c8911eb54ae51.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

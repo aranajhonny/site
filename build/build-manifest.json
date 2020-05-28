@@ -1,0 +1,45 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/N4PXg4rujWxCjDnBdL9Lm/_buildManifest.js",
+    "static/N4PXg4rujWxCjDnBdL9Lm/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.94e9432177da8e3c395d.js",
+      "static/chunks/a4cfd03e9771ca805e0dba430536fb212af44199.cb212b3c8911eb54ae51.js",
+      "static/runtime/main-b74aa62d0652345ae92f.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.94e9432177da8e3c395d.js",
+      "static/runtime/main-b74aa62d0652345ae92f.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.94e9432177da8e3c395d.js",
+      "static/runtime/main-b74aa62d0652345ae92f.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-b10afcedf826ebd862ad.js"
+    ],
+    "/hackintosh": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.94e9432177da8e3c395d.js",
+      "static/chunks/a4cfd03e9771ca805e0dba430536fb212af44199.cb212b3c8911eb54ae51.js",
+      "static/runtime/main-b74aa62d0652345ae92f.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.94e9432177da8e3c395d.js",
+      "static/chunks/a4cfd03e9771ca805e0dba430536fb212af44199.cb212b3c8911eb54ae51.js",
+      "static/runtime/main-b74aa62d0652345ae92f.js"
+    ]
+  }
+}
