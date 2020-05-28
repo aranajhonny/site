@@ -1,0 +1,32 @@
+{
+  "name": "site",
+  "description": "@aranajhonny website",
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest",
+    "lru-cache": "latest",
+    "module-alias": "latest",
+    "next": "latest",
+    "raven": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "license": "MIT",
+  "repository": "aranajhonny/site",
+  "lint-staged": {
+    "*.js": [
+      "prettier --write *.js pages/**/*.js components/**/*.js *.js",
+      "git add"
+    ]
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "husky": "latest",
+    "lint-staged": "latest",
+    "prettier": "latest"
+  }
+}
