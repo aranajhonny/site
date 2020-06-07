@@ -6,7 +6,7 @@
     "express": "latest",
     "lru-cache": "latest",
     "module-alias": "latest",
-    "next": "latest",
+    "next": "canary",
     "raven": "latest",
     "react": "latest",
     "react-dom": "latest"
